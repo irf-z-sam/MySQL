@@ -1,0 +1,1 @@
+In line no.20 of index.js of router file, we forget to put '/' just before edit-product. So update product is not working.Just after putting / , it will work perfectly.
